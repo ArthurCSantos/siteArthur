@@ -2740,7 +2740,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("assets/images/overlay.png"), url("assets/images/banner.jpg");
+			background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1qzDljuCTZLcsa7CJETfKw7fDu_xNN9KsM22XbNDg_i1wMrC42Q"), url("assets/images/banner.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
